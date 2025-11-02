@@ -268,7 +268,7 @@ public class Map {
 	    this.dg = dg;
 	  }
 
-	public getDirections() {
+	public void getDirections() {
 	    dg.getDirections();
 	   }
 }
